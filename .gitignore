@@ -29,3 +29,4 @@ e2e/*.map
 
 # System Files
 .DS_Store/
+projects/.DS_Store
